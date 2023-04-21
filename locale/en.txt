@@ -1,0 +1,109 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_80166656_99B6_1D09_41D9_37381B101365.text = Conference Room
+HotspotPanoramaOverlayTextImage_804F08A7_998E_1517_41DF_100BB8C99256.text = Data Science Team
+HotspotPanoramaOverlayTextImage_84A7E0E7_946E_7786_41D6_C8746E572C68.text = Enter Inside
+HotspotPanoramaOverlayTextImage_BADF4E1F_9996_0D38_41E2_5CA9FA593AEA.text = Exit
+HotspotPanoramaOverlayTextImage_81B47D66_998E_0F08_41B5_D9F4D70102CA.text = Exit
+HotspotPanoramaOverlayTextImage_969E98A9_985A_76BF_41C1_D5C146627564.text = Exit
+HotspotPanoramaOverlayTextImage_83C5E0B6_99FA_1508_41E0_73C252B86BEB.text = Java Development Team
+HotspotPanoramaOverlayTextImage_8F237927_999A_1717_41C9_07F497328E84.text = Meeting Room
+HotspotPanoramaOverlayTextImage_81738C07_99B6_0D08_41D1_671A678B7291.text = Meeting Room
+HotspotPanoramaOverlayTextImage_8D21E1E3_94E7_D9BE_41D4_E0FDABABF564.text = Next
+HotspotPanoramaOverlayTextImage_8D3AF356_94A2_BA86_41D1_28D219AED429.text = Next
+HotspotPanoramaOverlayTextImage_8DE1571D_94FF_FA8A_41DC_F03837D0DCF7.text = Next
+HotspotPanoramaOverlayTextImage_8044C0CC_99FA_7518_41D8_6D8CA3379ADB.text = RPA Team
+HotspotPanoramaOverlayTextImage_8363AFC9_99F6_0B18_419C_34AF760D9F31.text = Web Development Team
+
+## Media
+
+### Image
+imlevel_B0313F40_A355_433F_41D8_66A3AD77A6CD.url = media/panorama_6AAA5100_9EA9_4894_41D1_5AF8741258FA_HS_3nq5jecl_en.png
+imlevel_B02FFE2D_A355_4541_41DA_1DA625B1084E.url = media/panorama_9EC1DB64_9F99_7893_41E1_C8BBD1CFAF96_HS_kvk85057_en.png
+imlevel_B02C0E10_A355_455F_41E2_12447E2E0D93.url = media/panorama_9EC1DB64_9F99_7893_41E1_C8BBD1CFAF96_HS_pemf8j9k_en.png
+imlevel_B0212D52_A355_47C3_41B2_F1E6E36E1283.url = media/panorama_9EC526C0_945D_FC1E_41C3_A6319444BDEE_HS_4quen7m3_en.png
+imlevel_B0246CCA_A355_46C3_41C8_5547CFBB6ABA.url = media/panorama_9EC526C0_945D_FC1E_41C3_A6319444BDEE_HS_7u790u7u_en.png
+imlevel_B0238DB8_A355_474F_41B3_1DCDB774CD61.url = media/panorama_9EC57692_945D_1C22_41B7_A13BBE282065_HS_c7y2b9vp_en.png
+imlevel_B04A8BDB_A355_42C2_41DA_9D40D4F26B9F.url = media/panorama_9EFA6EDB_945D_0C21_41C5_C575AD84DB14_HS_b4inoc3q_en.png
+imlevel_B0544C08_A355_454E_41E2_5EC130AAE448.url = media/panorama_9EFA6EDB_945D_0C21_41C5_C575AD84DB14_HS_keeeyqq0_en.png
+imlevel_B0351ED8_A355_42CF_41E4_4A9A4356AE3B.url = media/panorama_9EFA95EB_945D_3FE1_41CE_F4B205FE2951_HS_7jnjz8m0_en.png
+imlevel_B02B4E96_A355_4543_41E1_97377B799DA7.url = media/panorama_9EFA95EB_945D_3FE1_41CE_F4B205FE2951_HS_hxhz6vet_en.png
+imlevel_B02E8E57_A355_45C1_41BE_9C0244DB6BAD.url = media/panorama_9EFA95EB_945D_3FE1_41CE_F4B205FE2951_HS_kao2y9p8_en.png
+imlevel_B04BCBBC_A355_4346_41DF_DEF9FD1B8E2F.url = media/panorama_9EFBFE89_945D_0C2E_41E1_07F2BEB584F9_HS_n98ds5mc_en.png
+imlevel_B0482B8C_A355_4346_41DF_03158B0108A4.url = media/panorama_9EFBFE89_945D_0C2E_41E1_07F2BEB584F9_HS_ppwef8or_en.png
+imlevel_B04EAB46_A355_43C2_41B8_7E1009F1AE84.url = media/panorama_9F296137_945D_3462_41CC_1F7811ED5142_HS_jxer466h_en.png
+
+### Title
+panorama_9F296137_945D_3462_41CC_1F7811ED5142.label = 01
+panorama_9EFBFE89_945D_0C2E_41E1_07F2BEB584F9.label = 02 ()
+video_061FBE2F_9F7B_D8ED_41E2_4F79B6DF6B61.label = 02_01
+video_0AD7BC87_9F7B_599C_41E1_F988B7E6CE72.label = 02_02
+panorama_9EC5F6DD_945D_1C26_41DE_ADB824E9EC68.label = 03
+panorama_9EFA6EDB_945D_0C21_41C5_C575AD84DB14.label = 04 ()
+video_3A2E498A_9F96_DB97_41DD_4BF29E90C6CD.label = 04_01
+video_3C7497A9_9F96_F795_41A2_C49006FE0898.label = 04_02
+panorama_9EC526C0_945D_FC1E_41C3_A6319444BDEE.label = 05
+panorama_9EC57692_945D_1C22_41B7_A13BBE282065.label = 06
+panorama_9EC1DB64_9F99_7893_41E1_C8BBD1CFAF96.label = 07 ()
+video_9EBC80AE_9FEF_C9EC_41BF_C32A5B34F95C.label = 07_01
+video_9ED2B78C_9FBB_3793_41D3_085565584F96.label = 07_02
+panorama_9EFA95EB_945D_3FE1_41CE_F4B205FE2951.label = 08
+panorama_6AAA5100_9EA9_4894_41D1_5AF8741258FA.label = 09 ()
+video_9EBCAA18_9FEF_D8B3_41B1_21C4E8FC9677.label = 09_01
+video_9EBCB8DA_9FEF_39B7_41BA_275ADDB2173B.label = 09_02
+video_9EBCC79E_9FEF_57AF_41A8_AB162A139112.label = 09_03
+panorama_9EFA953C_945D_1C66_41E2_7932C1A89A4E.label = 10
+panorama_9EFA1D91_945D_0C3E_41E0_274DE4449963.label = 11
+panorama_9EFAA5A4_945D_7C66_41D6_206B854C9929.label = 12
+panorama_9EFA6D10_945D_0C3E_41D2_38061F0EA419.label = 13
+panorama_9EC56F00_945D_0C1E_41DD_08B95CD0A806.label = 5(1)
+
+### Video
+videolevel_B678D0A8_A35A_DD4F_41C9_BAFA3FDDF6B6.url = media/video_061FBE2F_9F7B_D8ED_41E2_4F79B6DF6B61_en.mp4
+videolevel_B678D0A8_A35A_DD4F_41C9_BAFA3FDDF6B6.posterURL = media/video_061FBE2F_9F7B_D8ED_41E2_4F79B6DF6B61_poster_en.jpg
+videolevel_B601D8F9_A35A_CEC1_41C5_85179ED5CD95.url = media/video_0AD7BC87_9F7B_599C_41E1_F988B7E6CE72_en.mp4
+videolevel_B601D8F9_A35A_CEC1_41C5_85179ED5CD95.posterURL = media/video_0AD7BC87_9F7B_599C_41E1_F988B7E6CE72_poster_en.jpg
+videolevel_B7F373E9_A355_42C1_41E1_8C12BC41AE5B.url = media/video_3A2E498A_9F96_DB97_41DD_4BF29E90C6CD_en.mp4
+videolevel_B7F373E9_A355_42C1_41E1_8C12BC41AE5B.posterURL = media/video_3A2E498A_9F96_DB97_41DD_4BF29E90C6CD_poster_en.jpg
+videolevel_B6C62B23_A355_4340_41DB_E4ED6B2FC085.url = media/video_3C7497A9_9F96_F795_41A2_C49006FE0898_en.mp4
+videolevel_B6C62B23_A355_4340_41DB_E4ED6B2FC085.posterURL = media/video_3C7497A9_9F96_F795_41A2_C49006FE0898_poster_en.jpg
+videolevel_B6D022D8_A355_42CF_4195_FB4BE03C4F99.url = media/video_9EBC80AE_9FEF_C9EC_41BF_C32A5B34F95C_en.mp4
+videolevel_B6D022D8_A355_42CF_4195_FB4BE03C4F99.posterURL = media/video_9EBC80AE_9FEF_C9EC_41BF_C32A5B34F95C_poster_en.jpg
+videolevel_B6787ACB_A355_42C1_41D9_4A09075CB579.url = media/video_9EBCAA18_9FEF_D8B3_41B1_21C4E8FC9677_en.mp4
+videolevel_B6787ACB_A355_42C1_41D9_4A09075CB579.posterURL = media/video_9EBCAA18_9FEF_D8B3_41B1_21C4E8FC9677_poster_en.jpg
+videolevel_B61D93E6_A355_42C3_41CC_40A22E26EF81.url = media/video_9EBCB8DA_9FEF_39B7_41BA_275ADDB2173B_en.mp4
+videolevel_B61D93E6_A355_42C3_41CC_40A22E26EF81.posterURL = media/video_9EBCB8DA_9FEF_39B7_41BA_275ADDB2173B_poster_en.jpg
+videolevel_B6339D40_A355_473F_41D9_1D6BCF56453C.url = media/video_9EBCC79E_9FEF_57AF_41A8_AB162A139112_en.mp4
+videolevel_B6339D40_A355_473F_41D9_1D6BCF56453C.posterURL = media/video_9EBCC79E_9FEF_57AF_41A8_AB162A139112_poster_en.jpg
+videolevel_B6C4C620_A35A_C57F_41DB_AA5B444CD16C.url = media/video_9ED2B78C_9FBB_3793_41D3_085565584F96_en.mp4
+videolevel_B6C4C620_A35A_C57F_41DB_AA5B444CD16C.posterURL = media/video_9ED2B78C_9FBB_3793_41D3_085565584F96_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Image
+Image_9ECDCAF8_8948_793F_41C3_B5A90D67A1C5_mobile.url = skin/Image_9ECDCAF8_8948_793F_41C3_B5A90D67A1C5_mobile_en.gif
+
+### Multiline Text
+HTMLText_9ECD3AF8_8948_793F_41E0_88BE8C1232F5_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.84vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.7000000000000024vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Your Virtual Onboarding Process is Complete!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.646085997794927vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.65vh;font-family:'Montserrat';"><B>Welcome to Apaar Information Systems Pvt. Ltd. We're thrilled to have you on board and excited for you to start contributing to our team.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.65vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.646085997794927vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.65vh;font-family:'Montserrat';"><B>You can explore our office if you want in this Virtual Tour!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_9938DFEE_8E1A_C657_41B9_93215B86435D_mobile.toolTip = Enter VR
+IconButton_9938DFEE_8E1A_C657_41B9_93215B86435D.toolTip = Enter VR
+IconButton_99A57B9A_8E0A_4EFC_41D5_C665FACCF520.toolTip = Toggle Gyro
+IconButton_991DA35E_8E0E_DE77_41D9_90987D794E95_mobile.toolTip = Toggle Gyro
+IconButton_991DA35E_8E0E_DE77_41D9_90987D794E95.toolTip = Toggle Gyro
+IconButton_99A57B9A_8E0A_4EFC_41D5_C665FACCF520_mobile.toolTip = Toggle Gyro
+IconButton_99A3711E_8E1B_BBF4_41D2_DE0060F4649F.toolTip = fullscreen
+IconButton_99A3711E_8E1B_BBF4_41D2_DE0060F4649F_mobile.toolTip = fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apaar Onboarding v2
